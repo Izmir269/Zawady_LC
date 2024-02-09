@@ -1,2 +1,3 @@
+!pip install streamlit streamlit_chat faiss-cpu tiktoken 
 !pip install langchain==0.0.316
 !pip install openai==0.28.1
